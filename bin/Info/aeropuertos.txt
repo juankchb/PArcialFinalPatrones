@@ -1,0 +1,8 @@
+80;190;U.S
+250;250;Canada
+300;350;United States
+300;440;mexico
+470;700;argentina
+500;600;Brasil
+1000;250;Rusia
+1200;440;China

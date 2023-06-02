@@ -1,0 +1,7 @@
+Terminar el método DateLConstructor, DateSConstructor y el método que muestre en una ventana el horario en la clase Horario
+
+Hacer ventana para mostrar el horario
+
+Mostrar la info del vuelo en una ventana
+
+Usar el patron state para cambiar el estado del vuelo
